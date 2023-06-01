@@ -1,9 +1,7 @@
 # Profile
 <h2> Let's grow together! </h2>
-<hr>Any progress is progress.<hr>
+Any progress is progress.
 This is Min from Myanmar(Burma).
-
-
 
 ## About me
 
@@ -16,11 +14,9 @@ is pivoting on positivity, productivity and priority.
 🏢 &nbsp;Office :&nbsp;
  ![Soft Intelligence](https://img.shields.io/static/v1?label=Soft%20Intelligence&message=Grow%20Together&color=%3CGreen%3E)
 <h2>My main role is as the Co-Founder & Chief Customer Officer at Soft Intelligence,
-a local Tech startup delivering software products to enterprises in Myanmar(Burma).
- Email: hello@softintelmm.dev
- Company: Soft Intelligence Ltd
-<h2>
-
+a local Tech startup delivering software products to enterprises in Myanmar(Burma). <h2>
+Email: hello@softintelmm.dev
+Company: Soft Intelligence Ltd
 <hr>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
