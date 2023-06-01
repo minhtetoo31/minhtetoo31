@@ -1,7 +1,7 @@
 # Profile
 <h2> Let's grow together! </h2>
-- Any progress is progress.
-- This is Min from Myanmar(Burma).
+<hr>Any progress is progress.<hr>
+This is Min from Myanmar(Burma).
 
 
 
