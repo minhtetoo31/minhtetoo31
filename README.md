@@ -40,7 +40,7 @@ Company Email: hello@softintelmm.dev
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
- -☁ &nbsp;Cloud :&nbsp;
+- ☁ &nbsp;Cloud :&nbsp;
  ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
