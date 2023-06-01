@@ -6,10 +6,11 @@ This is Min from Myanmar(Burma).
 ## About me
 
 <h2>
--To empower our customers more, I have invested in learning data analytics for marketing purposes and customer insights since 2020.
-- On behalf of our customers, Min, a translator for product development team and a delegate for sales & marketing team, 
+To empower our customers more, I have invested in learning data analytics for marketing purposes and customer insights since 2020.<h2>
+
+ On behalf of our customers, Min, a translator for product development team and a delegate for sales & marketing team, 
 is pivoting on positivity, productivity and priority.
- - I love to speak the language of beauty in applications and visualization: Flutter, React, Python, R and React Native.<h2>
+ I love to speak the language of beauty in applications and visualization: Dart, React, Python, R and React Native.
  
 🏢 &nbsp;Office :&nbsp;
  ![Soft Intelligence](https://img.shields.io/static/v1?label=Soft%20Intelligence&message=Grow%20Together&color=%3CGreen%3E)
