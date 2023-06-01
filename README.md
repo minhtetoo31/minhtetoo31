@@ -1,25 +1,25 @@
-# profile
+# Profile
 <h2> Let's grow together! </h2>
-
-Any progress is progress.
-This is Min from Myanmar(Burma).
+- Any progress is progress.
+- This is Min from Myanmar(Burma).
 
 
 
 ## About me
 
-<h2>To empower our customers more, I have invested in learning data analytics for marketing purposes and customer insights since 2020.<h2>
-
-
-- 🏢 &nbsp;Office :&nbsp;
+<h2>
+-To empower our customers more, I have invested in learning data analytics for marketing purposes and customer insights since 2020.
+- On behalf of our customers, Min, a translator for product development team and a delegate for sales & marketing team, 
+is pivoting on positivity, productivity and priority.
+ - I love to speak the language of beauty in applications and visualization: Flutter, React, Python, R and React Native.<h2>
+ 
+🏢 &nbsp;Office :&nbsp;
  ![Soft Intelligence](https://img.shields.io/static/v1?label=Soft%20Intelligence&message=Grow%20Together&color=%3CGreen%3E)
 <h2>My main role is as the Co-Founder & Chief Customer Officer at Soft Intelligence,
-a local Tech startup delivering software products to enterprises in Myanmar(Burma).<h2>
-
- On behalf of our customers, Min, a translator for product development team and a delegate for sales & marketing team, 
-is pivoting on positivity, productivity and priority.<h2>
-
-<h2> I love to speak the language of beauty in applications and visualization: Flutter, React, Python, R and React Native.<h2>
+a local Tech startup delivering software products to enterprises in Myanmar(Burma).
+ Email: hello@softintelmm.dev
+ Company: Soft Intelligence Ltd
+<h2>
 
 <hr>
 
