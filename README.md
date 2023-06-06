@@ -7,15 +7,15 @@ This is Min from Myanmar(Burma).</h3>
 
 <h2> To empower our customers more, I have invested in learning data analytics for marketing purposes and customer insights since 2020.<h2>
 
-<h3> * On behalf of our customers, Min, a translator for product development team and a delegate for sales & marketing team, 
+ * On behalf of our customers, Min, a translator for product development team and a delegate for sales & marketing team, 
 is pivoting on positivity, productivity and priority.
- * I love to speak the language of beauty in applications and visualization.</h3>
+ * I love to speak the language of beauty in applications and visualization.
  
 🏢 &nbsp;Soft Intelligence Office :&nbsp;
  ![Soft Intelligence](https://img.shields.io/static/v1?label=Soft%20Intelligence&message=Grow%20Together&color=%3CGreen%3E)
 <h2> My main role is as the Co-Founder & Chief Customer Officer at Soft Intelligence,
 a local Tech startup delivering software products to enterprises in Myanmar(Burma). <h2>
- <h2>Company Email: hello@softintelmm.dev</h2>
+ Company Email: hello@softintelmm.dev
 
 <hr>
 
