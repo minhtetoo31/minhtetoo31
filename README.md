@@ -5,7 +5,7 @@ This is Min from Myanmar(Burma).</h3>
 
 ## About me
 
-<h2> To empower our customers more, I have invested in learning data analytics for marketing purposes and customer insights since 2020.<h2>
+<h3> To empower our customers more, I have invested in learning data analytics for marketing purposes and customer insights since 2020.<h3>
 
  * On behalf of our customers, Min, a translator for product development team and a delegate for sales & marketing team, 
 is pivoting on positivity, productivity and priority.
