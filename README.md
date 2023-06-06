@@ -1,7 +1,7 @@
 # Profile
 <h2> Let's grow together! </h2>
-Any progress is progress.
-This is Min from Myanmar(Burma).
+<h3> Any progress is progress.
+This is Min from Myanmar(Burma).</h3>
 
 ## About me
 
