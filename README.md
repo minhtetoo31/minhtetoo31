@@ -15,7 +15,7 @@ is pivoting on positivity, productivity and priority.
  ![Soft Intelligence](https://img.shields.io/static/v1?label=Soft%20Intelligence&message=Grow%20Together&color=%3CGreen%3E)
 <h3> My main role is as the Co-Founder & Chief Customer Officer at Soft Intelligence,
 a local Tech startup delivering software products to enterprises in Myanmar(Burma). <h3>
- <font color="#82E0AA">Company Email: hello@softintelmm.dev</font>
+ Company Email: hello@softintelmm.dev
 
 <hr>
 
